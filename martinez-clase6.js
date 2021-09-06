@@ -20,15 +20,8 @@ let p9 = new Alumno("Jose",4)
 
 let alumnos = []
 
-alumnos.push(p1)
-alumnos.push(p2)
-alumnos.push(p3)
-alumnos.push(p4)
-alumnos.push(p5)
-alumnos.push(p6)
-alumnos.push(p7)
-alumnos.push(p8)
-alumnos.push(p9)
+alumnos.push(p1,p2,p3,p4,p5,p6,p7,p8,p9)
+
 
 
 
